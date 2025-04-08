@@ -1,2 +1,2 @@
 # Mestrado
-Coisinhas da dissertação, bem como códigos importantes
+Todos os códigos feitos na dissertação estão aqui.
